@@ -103,4 +103,4 @@ Every claim must have a source. Uncited claims = potential hallucination.
 
 ---
 
-*By Rozêra — follow on [Medium](https://medium.com) for more AI security content*
+*By Rozêra — follow on [Medium](https://medium.com/@rozxalil801) for more AI security content*
