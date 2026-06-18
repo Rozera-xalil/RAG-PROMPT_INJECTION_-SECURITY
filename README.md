@@ -1,6 +1,7 @@
 # 🏢 Enterprise-Grade Secure RAG Architecture
 ### 12-Layer Defense Against Prompt Injection
 
+
 > By **Rozêra** — AI Engineer
 
 ---
@@ -70,10 +71,10 @@ secure-rag-enterprise/
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/secure-rag-enterprise
-cd secure-rag-enterprise
-pip install openai python-dotenv
-echo "OPENAI_API_KEY=sk-..." > .env
+git clone https://github.com/Rozera-xalil/RAG-PROMPT_INJECTION_-SECURITY
+cd RAG-PROMPT_INJECTION_-SECURITY
+pip install groq python-dotenv
+echo "groqapi=-..." > .env
 jupyter notebook notebooks/enterprise_secure_rag.ipynb
 ```
 
