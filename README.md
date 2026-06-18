@@ -1,3 +1,4 @@
+<img width="2200" height="1070" alt="Secure_RAG_Architecture" src="https://github.com/user-attachments/assets/416a7146-c16b-48ca-9687-201ce3a519dc" />
 # 🏢 Enterprise-Grade Secure RAG Architecture
 ### 12-Layer Defense Against Prompt Injection
 
